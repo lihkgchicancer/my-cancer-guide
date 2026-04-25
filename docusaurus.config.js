@@ -76,7 +76,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: '香港癌症指南',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',

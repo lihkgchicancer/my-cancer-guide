@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '香港醫療導航',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default, // 暫時保留原圖，之後可換
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        深入分析香港公立與私家醫院的治療流程、輪候時間及收費對比，助你作出最合適的醫療決策。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '生活護理建議',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        針對化療、電療副作用提供專業護理知識，包括飲食營養建議與心理調適，陪伴患者度過治療期。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '社群資源整合',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        匯集香港各大 NGO、癌症支援中心及社福團體資訊，提供經濟援助、交通接送及同路人支援等資源。
       </>
     ),
   },
