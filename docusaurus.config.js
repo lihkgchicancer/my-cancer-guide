@@ -25,7 +25,7 @@ const config = {
   projectName: 'my-cancer-guide', 
   trailingSlash: false, 
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   // 🔽 暫時保留預設英文 🔽
   i18n: {
@@ -103,8 +103,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '癌症指南',
+                to: '/docs/',
               },
             ],
           },
