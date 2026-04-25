@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default, // 暫時保留原圖，之後可換
     description: (
       <>
-        深入分析香港公立與私家醫院的治療流程、輪候時間及收費對比，助你作出最合適的醫療決策。
+        香港公立與私家醫院的治療流程、輪候時間及收費對比，助你作出最合適的醫療決策。
       </>
     ),
   },
