@@ -86,7 +86,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '癌症指南', // 這裡原本是 'Tutorial'，改名
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
