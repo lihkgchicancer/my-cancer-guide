@@ -112,8 +112,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Lihkg 全港最大癌症/腫瘤/Cancer/照顧者/家人/Caregiver 圍爐區',
+                href: 'https://lih.kg/3963035',
               },
               {
                 label: 'Discord',
@@ -134,12 +134,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/lihkgchicancer/my-cancer-guide',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 連登支仔`,
       },
       prism: {
         theme: prismThemes.github,
