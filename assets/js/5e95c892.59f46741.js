@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_cancer_guide=self.webpackChunkmy_cancer_guide||[]).push([["668"],{6569(e,r,c){c.r(r),c.d(r,{default:()=>i});var s=c(4848);c(6540);var a=c(4164),u=c(4308),n=c(8287),d=c(2831),t=c(1085);function i(e){return(0,s.jsx)(u.e3,{className:(0,a.A)(n.G.wrapper.docsPages),children:(0,s.jsx)(t.A,{children:(0,d.v)(e.route.routes)})})}}}]);
