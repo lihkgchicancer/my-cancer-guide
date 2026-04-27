@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_cancer_guide=self.webpackChunkmy_cancer_guide||[]).push([["3056"],{6171(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
