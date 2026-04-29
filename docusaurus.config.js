@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: '香港癌症指南', 
   tagline: '為癌症患者及家屬提供的醫療與護理資訊', 
-  favicon: 'img/favicon.ico',
+  favicon: 'img/docusaurus.png',
 
   future: {
     v4: true, 
