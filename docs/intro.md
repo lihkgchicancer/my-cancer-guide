@@ -1,5 +1,5 @@
 ---
-#sidebar_position: 1
+sidebar_position: 0
 slug: /
 title: 歡迎使用香港癌症指南
 ---
