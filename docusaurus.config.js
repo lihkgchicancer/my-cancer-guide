@@ -139,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Developed by ${new Date().getFullYear()} 連登支仔`,
+        copyright: `Developed by ${new Date().getFullYear()} 支仔`,
       },
       prism: {
         theme: prismThemes.github,
