@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_cancer_guide=self.webpackChunkmy_cancer_guide||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/my-cancer-guide/blog","blogTitle":"Blog","authorsListPath":"/my-cancer-guide/blog/authors"}')}}]);
