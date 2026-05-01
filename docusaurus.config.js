@@ -45,21 +45,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -88,7 +74,7 @@ const config = {
             position: 'left',
             label: '癌症指南', // 這裡原本是 'Tutorial'，改名
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/useful-links', label: 'Useful Links', position: 'left'},
           {
             href: 'https://github.com/lihkgchicancer/my-cancer-guide',
             label: 'GitHub',
@@ -116,12 +102,8 @@ const config = {
                 href: 'https://lih.kg/3963035',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: '腫瘤科吳教恩醫師',
+                href: 'https://www.youtube.com/@peterwu4845',
               },
             ],
           },
@@ -129,8 +111,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Useful Links',
+                to: '/useful-links',
               },
               {
                 label: 'GitHub',
